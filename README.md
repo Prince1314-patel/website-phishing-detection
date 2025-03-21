@@ -1,4 +1,3 @@
-```markdown
 # Phishing URL Detection with Machine Learning and Streamlit
 
 This project leverages advanced machine learning techniques to detect phishing URLs with high precision. Utilizing a state-of-the-art Streamlit app, users can effortlessly input a URL and receive an immediate prediction on its legitimacy. The solution incorporates robust feature extraction from URLs and is fine-tuned with Optuna for optimal performance.
